@@ -70,11 +70,14 @@
 		<meta property="se:url.authority.nacoaf" refines="#artist">COVERARTISTNACOAFLINK</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Annemie Arnst</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">TRANSCRIBERSORT</meta>
+		<meta property="file-as" refines="#transcriber-1">Arnst, Annemie</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">Dagny & Marc D'Hooghe at http://www.freeliterature.org</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBERSORT</meta>
+		<dc:contributor id="transcriber-2">Dagny</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">Dagny</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
+		<dc:contributor id="transcriber-3">Marc D’Hooghe</dc:contributor>
+		<meta property="file-as" refines="#transcriber-3">D’Hooghe, Marc</meta>
+		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
 		<meta property="file-as" refines="#producer-1">PRODUCERSORT</meta>
 		<meta property="se:url.homepage" refines="#producer-1">LINK</meta>
