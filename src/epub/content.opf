@@ -38,7 +38,7 @@
 		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/48912</meta>
 		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/48912</meta>
 		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/48912</meta>
-		<meta property="se:subject">TAG</meta>
+		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">DESCRIPTION</dc:description>
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description"><![CDATA[
@@ -63,12 +63,14 @@
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-1">https://en.wikipedia.org/wiki/John_Cournos</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-1">http://id.loc.gov/authorities/names/n82067305</meta>
 		<meta property="display-seq" refines="#translator-1">1</meta>
+		<meta property="role" refines="#translator-1" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
 		<dc:contributor id="translator-2">Richard Aldington</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Aldington, Richard</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/Richard_Aldington</meta>
 		<meta property="se:url.authority.nacoaf" refines="#translator-2">http://id.loc.gov/authorities/names/n80057251</meta>
 		<meta property="display-seq" refines="#translator-2">2</meta>
+		<meta property="role" refines="#translator-2" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">COVERARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
@@ -77,6 +79,7 @@
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Annemie Arnst</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Arnst, Annemie</meta>
+		<meta property="role" refines="#transcriber-1" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Dagny</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Dagny</meta>
