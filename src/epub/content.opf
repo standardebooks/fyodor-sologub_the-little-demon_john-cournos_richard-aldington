@@ -48,7 +48,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/48912</dc:source>
 		<dc:source>https://archive.org/details/TheLittleDemon</dc:source>
-		<meta property="se:production-notes">Any special notes about the production of this ebook for future editors/producers? Remove this element if not.</meta>
+		<meta property="se:production-notes">Cover art: Norwegian National Museum source image the right colour but too low-res, Wikimedia Commons high-res but bad colour. I’ve reworked the Wikimedia source colour to better match the original, but if a better resolution version of the original is found we should use that instead.</meta>
 		<meta property="se:word-count">WORDCOUNT</meta>
 		<meta property="se:reading-ease.flesch">READINGEASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Little_Demon</meta>
@@ -72,10 +72,11 @@
 		<meta property="display-seq" refines="#translator-2">2</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVERARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVERARTISTSORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVERARTISTWIKILINK</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVERARTISTNACOAFLINK</meta>
+		<dc:contributor id="artist">Eilif Peterssen</dc:contributor>
+		<meta property="se:name.person.full-name" refines="#artist">Hjalmar Eilif Emanuel Peterssen</meta>
+		<meta property="file-as" refines="#artist">Peterssen, Eilif</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Eilif_Peterssen</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/nr97041985</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Annemie Arnst</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Arnst, Annemie</meta>
