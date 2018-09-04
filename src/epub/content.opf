@@ -2,9 +2,9 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/fyodor-sologub/the-little-demon/john-cournos</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
-		<meta property="se:revision-number">0</meta>
+		<dc:date>2018-09-04T23:05:02Z</dc:date>
+		<meta property="dcterms:modified">2018-09-04T23:05:02Z</meta>
+		<meta property="se:revision-number">1</meta>
 		<dc:rights>The source text and artwork in this ebook edition are believed to be in the U.S. public domain. This ebook edition is released under the terms in the CC0 1.0 Universal Public Domain Dedication, available at https://creativecommons.org/publicdomain/zero/1.0/. For full license information see the Uncopyright file included at the end of this ebook.</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -43,15 +43,15 @@
 		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Ardalyon Borisitch Peredonov believes himself better than his job as teacher, and is hoping that the Princess will be able to promote him to the position of Inspector. Unfortunately for him his connection to the Princess is through his fiancée Varvara, and she has her own plans. With little sign of the desired position his life of petty cruelty escalates, even as his grip on reality begins to break apart and his paranoia manifests itself in hallucinations of a shadowy creature.&lt;/p&gt;
-			&lt;p&gt;Finished in 1907, &lt;i&gt;The Little Demon&lt;/i&gt; (alternatively translated as &lt;i&gt;The Petty Demon&lt;/i&gt;) is Fyodor Sologub’s most famous novel, and received both popular and critical attention on its publication despite its less-that-favorable depictions of provincial Russian life. Its portrayal of Peredonov as a paranoid character simultaneously both banal and bereft of goodness is an essay on the Russian concept of &lt;i xml:lang="ru"&gt;poshlost&lt;/i&gt;; a theme that makes an appearance in many other Russian novels, not least Chichikov in Gogol’s &lt;i&gt;Dead Souls&lt;/i&gt;. This translation (primarily by John Cournos) was published in 1916, and includes a preface by Sologub for the English reader.&lt;/p&gt;
+			&lt;p&gt;Finished in 1907, &lt;i&gt;The Little Demon&lt;/i&gt; (alternatively translated as &lt;i&gt;The Petty Demon&lt;/i&gt;) is Fyodor Sologub’s most famous novel, and received both popular and critical attention on its publication despite its less-that-favorable depictions of provincial Russian life. Its portrayal of Peredonov as a paranoid character simultaneously both banal and bereft of goodness is an essay on the Russian concept of &lt;i xml:lang="ru"&gt;poshlost&lt;/i&gt;; a theme that makes an appearance in many other Russian novels, not least Chichikov in Gogol’s &lt;a href="https://standardebooks.org/ebooks/nikolai-gogol/dead-souls/d-j-hogarth"&gt;&lt;i&gt;Dead Souls&lt;/i&gt;&lt;/a&gt;. This translation (primarily by John Cournos) was published in 1916, and includes a preface by Sologub for the English-speaking reader.&lt;/p&gt;
 		</meta>
 		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/48912</dc:source>
 		<dc:source>https://archive.org/details/TheLittleDemon</dc:source>
 		<meta property="se:production-notes">Cover art: Norwegian National Museum source image the right colour but too low-res, Wikimedia Commons high-res but bad colour. I’ve reworked the Wikimedia source colour to better match the original, but if a better resolution version of the original is found we should use that instead.</meta>
-		<meta property="se:word-count">WORDCOUNT</meta>
-		<meta property="se:reading-ease.flesch">READINGEASE</meta>
+		<meta property="se:word-count">100715</meta>
+		<meta property="se:reading-ease.flesch">66.84</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Little_Demon</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/fyodor-sologub_the-little-demon_john-cournos_richard-aldington</meta>
 		<dc:creator id="author">Fyodor Sologub</dc:creator>
@@ -98,6 +98,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="toc.xhtml" id="toc.xhtml" media-type="application/xhtml+xml" properties="nav"/>
