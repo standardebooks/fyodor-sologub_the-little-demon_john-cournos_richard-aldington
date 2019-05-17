@@ -26,25 +26,27 @@
 		<meta property="schema:accessibilityFeature">tableOfContents</meta>
 		<meta property="schema:accessibilityHazard">none</meta>
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.0 Level AA.</meta>
-		<link href="onix.xml" rel="onix-record"/>
+		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">The Little Demon</dc:title>
 		<meta property="file-as" refines="#title">Little Demon, The</meta>
 		<dc:subject id="subject-1">Teachers -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Russia -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Mental illness -- Fiction</dc:subject>
 		<dc:subject id="subject-4">Russian fiction -- Translations into English</dc:subject>
-		<meta property="meta-auth" refines="#subject-1">https://www.gutenberg.org/ebooks/48912</meta>
-		<meta property="meta-auth" refines="#subject-2">https://www.gutenberg.org/ebooks/48912</meta>
-		<meta property="meta-auth" refines="#subject-3">https://www.gutenberg.org/ebooks/48912</meta>
-		<meta property="meta-auth" refines="#subject-4">https://www.gutenberg.org/ebooks/48912</meta>
+		<meta property="authority" refines="#subject-1">LCSH</meta>
+		<meta property="term" refines="#subject-1">sh2008112613</meta>
+		<meta property="authority" refines="#subject-2">LCSH</meta>
+		<meta property="term" refines="#subject-2">sh2008116767</meta>
+		<meta property="authority" refines="#subject-3">LCSH</meta>
+		<meta property="term" refines="#subject-3">sh2008107968</meta>
+		<meta property="authority" refines="#subject-4">LCSH</meta>
+		<meta property="term" refines="#subject-4">Unknown</meta>
 		<meta property="se:subject">Fiction</meta>
 		<dc:description id="description">A banal and paranoid school teacher falls slowly into madness.</dc:description>
-		<meta property="meta-auth" refines="#description">https://standardebooks.org</meta>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Ardalyon Borisitch Peredonov believes himself better than his job as teacher, and is hoping that the Princess will be able to promote him to the position of Inspector. Unfortunately for him his connection to the Princess is through his fiancée Varvara, and she has her own plans. With little sign of the desired position his life of petty cruelty escalates, even as his grip on reality begins to break apart and his paranoia manifests itself in hallucinations of a shadowy creature.&lt;/p&gt;
 			&lt;p&gt;Finished in 1907, &lt;i&gt;The Little Demon&lt;/i&gt; (alternatively translated as &lt;i&gt;The Petty Demon&lt;/i&gt;) is Fyodor Sologub’s most famous novel, and received both popular and critical attention on its publication despite its less-that-favorable depictions of provincial Russian life. Its portrayal of Peredonov as a paranoid character simultaneously both banal and bereft of goodness is an essay on the Russian concept of &lt;i xml:lang="ru"&gt;poshlost&lt;/i&gt;; a theme that makes an appearance in many other Russian novels, not least Chichikov in Gogol’s &lt;a href="https://standardebooks.org/ebooks/nikolai-gogol/dead-souls/d-j-hogarth"&gt;&lt;i&gt;Dead Souls&lt;/i&gt;&lt;/a&gt;. This translation (primarily by John Cournos) was published in 1916, and includes a preface by Sologub for the English-speaking reader.&lt;/p&gt;
 		</meta>
-		<meta property="meta-auth" refines="#long-description">https://standardebooks.org</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/48912</dc:source>
 		<dc:source>https://archive.org/details/TheLittleDemon</dc:source>
