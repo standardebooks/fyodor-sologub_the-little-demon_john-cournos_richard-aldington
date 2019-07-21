@@ -57,6 +57,7 @@
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/fyodor-sologub_the-little-demon_john-cournos_richard-aldington</meta>
 		<dc:creator id="author">Fyodor Sologub</dc:creator>
 		<meta property="file-as" refines="#author">Sologub, Fyodor</meta>
+		<meta property="alternate-script" refines="#author">Фёдор Сологу́б</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Fyodor_Sologub</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79142566</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
