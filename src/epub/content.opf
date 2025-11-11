@@ -69,6 +69,7 @@
 		<meta property="display-seq" refines="#translator-1">1</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-1" scheme="marc:relators">trl</meta>
+		<meta property="role" refines="#translator-1" scheme="marc:relators">wfw</meta>
 		<dc:contributor id="translator-2">Richard Aldington</dc:contributor>
 		<meta property="file-as" refines="#translator-2">Aldington, Richard</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#translator-2">https://en.wikipedia.org/wiki/Richard_Aldington</meta>
