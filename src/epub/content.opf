@@ -29,6 +29,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">The Little Demon</dc:title>
 		<meta property="file-as" refines="#title">Little Demon, The</meta>
+		<meta property="dcterms:alternative" refines="#title">The Petty Demon</meta>
 		<dc:subject id="subject-1">Teachers -- Fiction</dc:subject>
 		<dc:subject id="subject-2">Russia -- Fiction</dc:subject>
 		<dc:subject id="subject-3">Mental illness -- Fiction</dc:subject>
