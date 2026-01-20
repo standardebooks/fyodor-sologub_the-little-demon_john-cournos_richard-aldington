@@ -52,7 +52,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/48912</dc:source>
 		<dc:source>https://archive.org/details/TheLittleDemon</dc:source>
 		<meta property="se:production-notes">Cover art: Norwegian National Museum source image the right colour but too low-res, Wikimedia Commons high-res but bad colour. I’ve reworked the Wikimedia source colour to better match the original, but if a better resolution version of the original is found we should use that instead.</meta>
-		<meta property="se:word-count">100745</meta>
+		<meta property="se:word-count">98113</meta>
 		<meta property="se:reading-ease.flesch">66.84</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Petty_Demon</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/fyodor-sologub_the-little-demon_john-cournos_richard-aldington</meta>
