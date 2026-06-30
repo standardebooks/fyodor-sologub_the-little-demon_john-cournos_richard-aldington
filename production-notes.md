@@ -1,0 +1,1 @@
+Cover art: Norwegian National Museum source image the right colour but too low-res, Wikimedia Commons high-res but bad colour. I’ve reworked the Wikimedia source colour to better match the original, but if a better resolution version of the original is found we should use that instead.
