@@ -79,8 +79,8 @@
 		<meta property="role" refines="#translator-2" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator-2" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">Eilif Peterssen</dc:contributor>
-		<meta property="schema:alternateName" refines="#artist">Hjalmar Eilif Emanuel Peterssen</meta>
 		<meta property="file-as" refines="#artist">Peterssen, Eilif</meta>
+		<meta property="schema:alternateName" refines="#artist">Hjalmar Eilif Emanuel Peterssen</meta>
 		<link href="https://en.wikipedia.org/wiki/Eilif_Peterssen" refines="#artist" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/nr97041985.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
